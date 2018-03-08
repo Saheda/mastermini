@@ -1,0 +1,2 @@
+# mastermini
+Laravel Insert project
